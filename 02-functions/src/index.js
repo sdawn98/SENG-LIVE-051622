@@ -5,6 +5,7 @@ const bookstore = 'Easley\'s Technical Books'
 let open = false
 
 //3. toggles open. If Open is true log "Welcome to {bookstore}, we're open" else "Sorry, {bookstore} is closed"
+//
 if(open === true){
     console.log(`Welcome to ${bookstore}, we're open`)
 } else {
